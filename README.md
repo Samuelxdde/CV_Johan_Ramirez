@@ -1,29 +1,31 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Johan Samuel Ramirez Perilla
+**Profesión:** Tecnologo en Analisís y Desarrollo de Software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [johansamuelramirezperilla@gmail.com](johansamuelramirezperill@gmail.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)_
+- Tecnologo en Analisís y desarrollo de Software.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa ABC** _(2025 - 2025)_
+- Cargo y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2025 - Actualidad)_
+- Tecnologo en Analisís y desarrollo de Software.
+### **Sena** _(2022 - 2024)_
+- Tecnico en Asistencia Administrativa.
+### **Bachillerato** _(2024)_
+- Egresado del minuto de Dios.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Conocimientos de segunda lengua, inglés**
+- **Desarrollo de documentos Administrativos**
+- **Crecion y mantenimiento de inventarios**
 
 ---
 
